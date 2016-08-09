@@ -1,0 +1,26 @@
+<!--
+    README.md
+
+    Copyright 2016 Jeremy Crosen
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+# Estuary Streams
+
+## Purpose
+A work-in-process project to meet the following needs:
+
+* Deepen my knowledge of building highly usable and flexible clojure libraries and utilities
+* Provide a simple interface for a stateful estuary stream
+* Provide clojure bindings for various stream protocols and implementations (eg. Redis/RabbitMQ Pub/Sub, ZeroMQ, clojure/core.async in-memory implementation)
